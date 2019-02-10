@@ -1,0 +1,95 @@
+
+.nav-item {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: 'Montserrat Alternates', sans-serif;  
+}
+
+#font {
+    font-family: 'Montserrat Alternates', sans-serif;  
+}
+
+.name {
+    padding-top: 20%;
+    font-size: 60px;
+}
+
+.title {
+    font-family: 'Montserrat Alternates', sans-serif;  
+    font-size: 38px;
+    text-align: center;
+}
+
+#mybtn {
+    background-color: white;
+    color: #D37096;
+    font-family: 'Lekton', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    border-color: #D37096;
+    margin-left: 30%;
+    
+}
+
+#mybtn:hover{
+    background-color: #D37096;
+    color: White;
+    box-shadow: 4px 4px lightgray;
+}
+
+.card-title {
+    font-family: 'Montserrat Alternates', sans-serif;  
+    font-size: 30px;
+}
+
+.card-text {
+    font-family: 'Montserrat Alternates', sans-serif;  
+    font-size: 16px;
+}
+
+#card {
+    border-color: #D37096;
+}
+
+.skills {
+    font-family: 'Lekton', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.explain {
+    font-family: 'Lekton', sans-serif;
+    font-size: 24px;
+}
+.footer {
+    padding-top: 4rem;
+    padding-bottom: 5rem;
+    padding-left: 45%;
+    color:black;
+
+  }
+
+
+.icon {
+    font-size: 30px;
+    width: 50px;
+}
+
+.footer-align {
+    margin-left: 50%;
+}
+
+.email{
+    width: 60px;
+}
+
+.linkedin {
+    font-size: 25px;
+}
+
+.twitter {
+    font-size: 25px;
+}
